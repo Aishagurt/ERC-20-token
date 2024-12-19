@@ -1,0 +1,12 @@
+{
+    "name": "simple-erc20",
+    "version": "1.0.0",
+    "description": "ERC-20 token",
+    "scripts": {
+        "test": "truffle test"
+    },
+    "dependencies": {
+        "truffle": "^5.9.0",
+        "web3": "^1.8.0"
+    }
+}
